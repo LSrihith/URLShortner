@@ -9,6 +9,9 @@ Built with react
 ## Screenshots and demo
 ![alt text](image.png)
 
+## Links
+Site URL: https://LSrihith.github.io/URLShortner
+
 ## Installation
 
 Follow these steps to install and run the project in your local development environment:
