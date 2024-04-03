@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/URLShortner/static/css/main.e812eabe.css",
+    "main.js": "/URLShortner/static/js/main.f93754ba.js",
+    "static/js/453.0bc0443b.chunk.js": "/URLShortner/static/js/453.0bc0443b.chunk.js",
+    "static/media/logo.svg": "/URLShortner/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/URLShortner/index.html",
+    "main.e812eabe.css.map": "/URLShortner/static/css/main.e812eabe.css.map",
+    "main.f93754ba.js.map": "/URLShortner/static/js/main.f93754ba.js.map",
+    "453.0bc0443b.chunk.js.map": "/URLShortner/static/js/453.0bc0443b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e812eabe.css",
+    "static/js/main.f93754ba.js"
+  ]
+}
